@@ -1,0 +1,11 @@
+Package: geopkg
+Title: Provide
+Version: 0.0.0.9000
+Authors@R: 
+    person("Pascal", "Burkhard", , "pascal.burkhard@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0001-5504-5084"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
