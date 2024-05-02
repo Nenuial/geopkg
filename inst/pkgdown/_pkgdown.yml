@@ -1,7 +1,7 @@
 template:
   bootstrap: 5
   bootswatch: darkly
-  theme: arrow-dark
+  theme: github-dark
   bslib:
     primary: '#3a4869'
     heading_font:
