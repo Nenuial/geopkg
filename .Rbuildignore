@@ -1,4 +1,3 @@
 ^LICENSE\.md$
 ^\.Rproj\.user$
-^\.pre-commit-config\.yaml$
 ^geopkg\.Rproj$
