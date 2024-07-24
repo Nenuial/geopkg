@@ -1,3 +1,5 @@
+# geopkg 1.1.0
+
 # geopkg 1.0.0
 
 * Release package
